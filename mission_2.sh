@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "This is my first shell script!"
+GREETING="Hello, Recruit!"
+
+echo $GREETING
